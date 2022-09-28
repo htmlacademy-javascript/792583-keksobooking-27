@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Vlad Ivanishin](https://up.htmlacademy.ru/javascript/27/user/792583).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
